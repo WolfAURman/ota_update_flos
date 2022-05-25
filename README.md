@@ -1,5 +1,8 @@
-## OTA update
-LineageOS OTA update
+# LineageOS OTA update #
+
+![flos](https://user-images.githubusercontent.com/93985232/170225605-16913dee-1cd7-49ea-b3f7-77826f5a51c5.jpg)
+
+## Description of lines
 
 "datetime" - build date in UNIX timestamp, see out/build_date.txt
 
