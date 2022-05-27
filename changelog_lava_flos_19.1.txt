@@ -1,1 +1,21 @@
-#test_changelog19.1
+==========
+21.05.2022
+==========
+- Hotfix OTA update
+
+==========
+20.05.2022
+==========
+- Vanilla build
+- Initial build
+- add Power HAL Q
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.278
+- Security patch for May 2022
+- New keyboard
+- New wallpaper
+- Other minor useful fixes
+- Return to the standard tree
+- Correction of the customization menu
+- Added face unlock
+- etc.
