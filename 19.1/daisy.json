@@ -1,1 +1,13 @@
-Please ask your administrator.
+{
+  "response": [
+    {
+      "datetime": "1654816235",
+      "filename": "lineage-19.1-20220610-UNOFFICIAL-daisy.zip",
+      "id": "9a1322da05cd32189b8773b995575c2a10457ae6b78cb4bcf2a579b8eecc56db",
+      "romtype": "UNOFFICIAL",
+      "size": "727454573",
+      "url": "https://github.com/WolfAURman/ota_update_flos/releases/download/daisy_lineage-19.1_1654816235/lineage-19.1-20220610-UNOFFICIAL-daisy.zip",
+      "version": "19.1"
+    }
+  ]
+}
