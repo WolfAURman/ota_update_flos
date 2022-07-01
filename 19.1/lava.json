@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1656599324",
-      "filename": "lineage-19.1-20220630-UNOFFICIAL-lava.zip",
-      "id": "f0318e314942486a90e660e6f6e3fda7ac37b63c86160f3305f2a72193dd15a9",
+      "datetime": "1656672107",
+      "filename": "lineage-19.1-20220701-UNOFFICIAL-lava.zip",
+      "id": "710061452a3f826981cf7f7a5328cf28ed498a5306f56baa40a859636de4bf19",
       "romtype": "UNOFFICIAL",
-      "size": "998975381",
-      "url": "https://github.com/WolfAURman/ota_update_flos/releases/download/lava_lineage-19.1_1656599324/lineage-19.1-20220630-UNOFFICIAL-lava.zip",
+      "size": "994029225",
+      "url": "https://github.com/WolfAURman/ota_update_flos/releases/download/lava_lineage-19.1_1656672107/lineage-19.1-20220701-UNOFFICIAL-lava.zip",
       "version": "19.1"
     }
   ]
