@@ -1,1 +1,13 @@
-#test for lava
+{
+  "response": [
+    {
+      "datetime": "1658391691",
+      "filename": "lineage-18.1-20220721-UNOFFICIAL-lava.zip",
+      "id": "aa5abe18e2eab4434385795a7f4c68baf967da8cc93054dd15cf573712d428e7",
+      "romtype": "UNOFFICIAL",
+      "size": "946771218",
+      "url": "https://github.com/WolfAURman/ota_update_flos/releases/download/lava_lineage-18.1_1658391691/lineage-18.1-20220721-UNOFFICIAL-lava.zip",
+      "version": "18.1"
+    }
+  ]
+}
