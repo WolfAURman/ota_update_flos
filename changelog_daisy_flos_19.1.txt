@@ -1,0 +1,42 @@
+=============
+17-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Use kernel 4.9.312 sleepy
+- Security patch for Jul 2022
+
+=============
+02-07-2022
+=============
+Thank you very much rozenov!
+=============
+- HOTFIX! Correction of tile settings in quick settings!
+- All other changes are also relevant from 29.06.2022 version
+
+=============
+29-06-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Use kernel 4.9.312 sleepy
+- Security patch for June 2022
+- Added OTA update
+
+=============
+10-06-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Initial build
+- Use kernel 4.9.312 sleepy
+- Security patch for May 2022
+- New keyboard
+- New wallpaper
+- Other minor useful fixes
+- Correction of the customization menu
+- Added face unlock
+- etc.
