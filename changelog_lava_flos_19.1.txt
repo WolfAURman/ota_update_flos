@@ -1,11 +1,32 @@
-==========
+=============
+15-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.287
+- Security patch for Jul 2022
+
+=============
+01-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Synchronized with the latest sources
+- Upstream kernel to version 4.14.284
+- Security patch for June 2022
+- Fix for adding tiles in quick settings
+
+=============
 21.05.2022
-==========
+=============
 - Hotfix OTA update
 
-==========
+=============
 20.05.2022
-==========
+=============
 - Vanilla build
 - Initial build
 - add Power HAL Q
