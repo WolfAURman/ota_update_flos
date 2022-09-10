@@ -1,1 +1,13 @@
-#Changelog lava
+=============
+21-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Exclusive from me! Updated the security patch to version July 
+thx for help @OGExpressLuke
+- Initial build
+- Vanilla build
+- Synchronized with the latest sources
+- Updating the kernel to version 4.14.288
+- Update dt
+- Added OTA updates
