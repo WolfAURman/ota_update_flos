@@ -1,1 +1,20 @@
-#Test changelog flos for daisy
+=============
+20-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Exclusive from me! Updated the security patch to version July 
+thx for help @OGExpressLuke
+
+=============
+19-07-2022
+=============
+Thank you very much rozenov!
+=============
+- Vanilla build
+- Use kernel 4.9.312 sleepy
+- Security patch for June 2022
+- Added OTA update
+- Initial build
+- Disable LTO in sleepy_defconfig
+- Disable custom clang  
